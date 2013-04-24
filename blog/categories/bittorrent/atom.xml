@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: BitTorrent | 小同步]]></title>
+  <link href="http://xiaotongbu.github.io/blog/categories/bittorrent/atom.xml" rel="self"/>
+  <link href="http://xiaotongbu.github.io/"/>
+  <updated>2013-04-25T04:52:25+08:00</updated>
+  <id>http://xiaotongbu.github.io/</id>
+  <author>
+    <name><![CDATA[Matt Chen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[BitTorrent Sync，终极同步解决方案？]]></title>
+    <link href="http://xiaotongbu.github.io/blog/2013/04/25/bittorrent-sync%2Czhong-ji-tong-bu-jie-jue-fang-an-%3F/"/>
+    <updated>2013-04-25T04:04:00+08:00</updated>
+    <id>http://xiaotongbu.github.io/blog/2013/04/25/bittorrent-sync,zhong-ji-tong-bu-jie-jue-fang-an-?</id>
+    <content type="html"><![CDATA[<p>如果 BitTorrent 开始做云端同步服务，你还会用别家的吗？</p>
+
+<p>这并不仅仅是“如果”——今天 CNet 向我们介绍了 BitTorrent 推出的一款新服务 BitTorrent Sync，它帮助用户在多台设备之间同步个人文件。</p>
+
+<p>BitTorrent Sync 采用点对点技术在不同设备之间同步文件。据 BitTorrent 官方发言人表示，BitTorrent Sync 将支持设备之间的直接同步，而不需要在 Mac OS、Windows 或 Linux 系统中安装其他任何本地软件，也不需要使用 NAS 技术进行云缓存。另外，文件在同步过程中将自动加密。</p>
+
+<p>此前，BitTorrent 在官方博客中表示：“我们希望能够把所有东西放在一起，于是我们就想要开发一款全新的分布式同步产品，协助在多台计算机之间管理个人文件。”</p>
+
+<p>BitTorrent Sync 的操作方式非常简单：</p>
+
+<p>成功安装软件后，用户可以设置一到两个同步文件夹，然后就会收到一串 21 字节的验证码，将这串验证码复制到用户想要同步的设备上去，这样就可以将这些设备联接起来了。</p>
+
+<p>这款工具的最大优势在于，共享过程中不需要任何第三方的同步介质，而同步文件的最大存储量也只会由你的硬盘来决定。</p>
+
+<p>据悉，这款工具目前还不具备版本控制和备份管理功能，不过用户可以选择一些补充手段，比如和 Time Machine 等备份软件一起使用。</p>
+
+<p>BitTorrent Sync 是在今年 1 月正式被公布的，目前仍处于 Alpha 测试的初期，而 BitTorrent 仍在寻找自愿测试这款服务的志愿者。</p>
+
+<p>BitTorrent 在官方博客中表示：“我们希望用户能帮助我们，大家一起开发这款出色的产品。如果你愿意使用一款还处在开发阶段的软件，和我们一起寻找更好的同步方式，那么我们十分愿意倾听你的意见。”</p>
+]]></content>
+  </entry>
+  
+</feed>
